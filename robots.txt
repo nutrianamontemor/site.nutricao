@@ -6,4 +6,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://issei.com.br/sitemap.xml
+Sitemap: https://nutrianamontemor.com.br/sitemap.xml
